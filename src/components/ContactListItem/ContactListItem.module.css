@@ -1,0 +1,32 @@
+.item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.text {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.phone {
+    font-size: 15px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background-color: #fff;
+    border: 1px solid #2196F3;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #2196F3;
+}

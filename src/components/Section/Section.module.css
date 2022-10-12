@@ -1,0 +1,15 @@
+.section {
+    margin-top: 40px;
+    margin-left: 40px;
+    
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.page-title {
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 40px;
+    font-weight: 700;
+}
